@@ -207,7 +207,7 @@ p + h2 {
   margin-top: 2em;
 }
 html {
-  background: #f5f5f5;
+  background: #ffdead;
   height: 100%;
 }
 code {
@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Prima versione</h1>
+            <h1>Seconda versione</h1>
           </hgroup>
 
 
